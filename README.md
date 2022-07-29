@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VlasisMentz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working with React
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me: vlasism@gmail.com
 

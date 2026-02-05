@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VlasisMentz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working with React
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently working with React NextJs and React Native
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: vlasism@gmail.com
 
 <!---
